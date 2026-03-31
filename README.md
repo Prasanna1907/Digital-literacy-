@@ -45,7 +45,7 @@
 
 1. **Start with the report**: Open `report/Project_Report.pdf` for the complete consolidated submission.
 2. **Explore by task**: Each folder (`task-1/` to `task-5/`) contains standalone deliverables + reflections.
-3. **View the presentation**: Open the link in `task-1-presentation/Canva_Presentation_Link.txt`.
+3. **View the presentation**: Open the link in `task-1-presentation/Canva_Presentation`.
 4. **Reuse templates**: Email drafts (`task-4/`) and safety checklist (`task-5/`) are ready for your personal use.
 5. **Share awareness**: Distribute the prevention checklist with peers—cyber safety is a community effort.
 
